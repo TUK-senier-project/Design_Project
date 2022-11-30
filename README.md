@@ -17,6 +17,14 @@
 <hr>
 <h2>발표자료</h2>
 
+<p>
+
+<span>11.29 유정민 5차 PPT 공유</span>
+![화면 캡처 2022-11-30 125405](https://user-images.githubusercontent.com/74183321/204703849-41a1d792-610f-4cfb-a412-e3d7da5ee8a7.png)
+
+
+</p>
+
 <hr>
 <h2>정보</h2>
 
